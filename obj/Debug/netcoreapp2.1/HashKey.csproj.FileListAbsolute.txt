@@ -1,0 +1,11 @@
+/Users/Catalyst/Projects/HashKey/bin/Debug/netcoreapp2.1/HashKey.deps.json
+/Users/Catalyst/Projects/HashKey/bin/Debug/netcoreapp2.1/HashKey.runtimeconfig.json
+/Users/Catalyst/Projects/HashKey/bin/Debug/netcoreapp2.1/HashKey.runtimeconfig.dev.json
+/Users/Catalyst/Projects/HashKey/bin/Debug/netcoreapp2.1/HashKey.dll
+/Users/Catalyst/Projects/HashKey/bin/Debug/netcoreapp2.1/HashKey.pdb
+/Users/Catalyst/Projects/HashKey/obj/Debug/netcoreapp2.1/HashKey.csprojAssemblyReference.cache
+/Users/Catalyst/Projects/HashKey/obj/Debug/netcoreapp2.1/HashKey.csproj.CoreCompileInputs.cache
+/Users/Catalyst/Projects/HashKey/obj/Debug/netcoreapp2.1/HashKey.AssemblyInfoInputs.cache
+/Users/Catalyst/Projects/HashKey/obj/Debug/netcoreapp2.1/HashKey.AssemblyInfo.cs
+/Users/Catalyst/Projects/HashKey/obj/Debug/netcoreapp2.1/HashKey.dll
+/Users/Catalyst/Projects/HashKey/obj/Debug/netcoreapp2.1/HashKey.pdb
